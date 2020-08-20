@@ -2,11 +2,11 @@
 
 ## Application URL
 
-My code can be found at [Team Generator](https://sheldonmall.github.io/team-generator/) 
+My code can be found at [Database Maintenance](https://sheldonmall.github.io/employee-management/) 
 
 ![Team Page](./screenshot.png)
 
-![Test Result](./testresult.png)
+![Demo Video](https://drive.google.com/file/d/1doOp77T7RVuaVFv5SMLtCwkHwe9GZuvW/view)
 
 ## Description
 
